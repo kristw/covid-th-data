@@ -2,7 +2,6 @@ name: Update data from source
 on:
   schedule:
     - cron: '0 */24 * * *'
-    # - cron: '0 0 * * *' # every day at midnight
 
 jobs:
   build:
