@@ -1,0 +1,23 @@
+{
+  "name": "covid-th-data",
+  "version": "1.0.0",
+  "description": "Thailand COVID dataset",
+  "private": true,
+  "default": "raw/covidThPatients.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristw/covid-th-data.git"
+  },
+  "author": "Krist Wongsuphasawat",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristw/covid-th-data/issues"
+  },
+  "homepage": "https://github.com/kristw/covid-th-data#readme",
+  "dependencies": {
+    "moment": "^2.24.0"
+  }
+}
