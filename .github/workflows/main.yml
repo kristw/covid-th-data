@@ -11,12 +11,12 @@ jobs:
     - uses: actions/checkout@master
     - name: Curl request
       run: |
-        curl -v -L -X GET -H "api-key: ${{ secrets.DATA_GO_TH_API_KEY }}" "https://opend.data.go.th/get-ckan/datastore_search?resource_id=93f74e67-6f76-4b25-8f5d-b485083100b6&limit=100000" > ./covid_th.json
+        curl -v -L -X GET -H "api-key: ${{ secrets.DATA_GO_TH_API_KEY }}" "https://opend.data.go.th/get-ckan/datastore_search?resource_id=93f74e67-6f76-4b25-8f5d-b485083100b6&limit=100000" > ./raw/covidThPatients.json
     - name: Commit files
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add covid_th.json
+        git add raw/covidThPatients.json
         git commit -m "update data"
     - name: Push changes
       uses: ad-m/github-push-action@master
