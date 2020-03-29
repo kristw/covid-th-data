@@ -1,11 +1,12 @@
-name: Update data
+name: Update data from source
 on:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '0 */24 * * *'
     # - cron: '0 0 * * *' # every day at midnight
 
 jobs:
   build:
+    name: Fetch data and update repo
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
