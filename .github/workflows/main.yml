@@ -1,7 +1,7 @@
 name: Update data from source
 on:
   schedule:
-    - cron: '0 */24 * * *'
+    - cron: '0 */1 * * *'
 
 jobs:
   build:
