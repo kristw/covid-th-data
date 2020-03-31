@@ -25,6 +25,7 @@ const records = response.result.records.map(record => {
   else if (province === 'กรุงเทพ') province = 'กทม';
   else if (province === 'นทบุรี') province = 'นนทบุรี';
   else if (province === 'นนทบุรี') province = 'นนทบุรี';
+  else if (province === 'นนทุบุรี') province = 'นนทบุรี';
   else if (province === 'ภูก็ต') province = 'ภูเก็ต';
   else if (province === 'สมุุทรปราการ') province = 'สมุทรปราการ';
   else if (province === 'ชลบุุรี') province = 'ชลบุรี';
