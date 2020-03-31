@@ -2,7 +2,18 @@ const moment = require('moment');
 const fs = require('fs');
 const path = require('path');
 
-const parseDate = str => str === null ? null : moment.utc(str, 'YYYY-MM-DDTHH:mm:ss').toJSON();
+const NOW = new Date().getTime();
+
+function parseDate(str) {
+  if (str === null) return null;
+  const date = moment.utc(str, 'YYYY-MM-DDTHH:mm:ss');
+
+  // Swap month and date
+  if (date.valueOf() > NOW) {
+    return moment.utc(str, 'YYYY-DD-MMTHH:mm:ss').toJSON();
+  }
+  return date.toJSON();
+}
 
 const response = JSON.parse(fs.readFileSync(path.join(__dirname, '../raw/covidThPatients.json'), 'utf8'));
 
@@ -12,6 +23,11 @@ const records = response.result.records.map(record => {
   if (province === '') province = 'ไม่ทราบ';
   // เช่นเดียวกับ กทม. และกรุงเทพ
   else if (province === 'กรุงเทพ') province = 'กทม';
+  else if (province === 'นทบุรี') province = 'นนทบุรี';
+  else if (province === 'นนทบุรี') province = 'นนทบุรี';
+  else if (province === 'ภูก็ต') province = 'ภูเก็ต';
+  else if (province === 'สมุุทรปราการ') province = 'สมุทรปราการ';
+  else if (province === 'ชลบุุรี') province = 'ชลบุรี';
 
   return {
     // field นี้ดันมี _ นำหน้าอยู่อันเดียว
