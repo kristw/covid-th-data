@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/kristw/covid-th-data#readme",
   "dependencies": {
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "lodash": "^4.17.15",
+    "edit-distance": "^1.0.2",
+    "gridmap-layout-thailand": "^0.0.3"
   }
 }
