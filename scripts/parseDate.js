@@ -7,8 +7,8 @@ module.exports = function parseDate(str) {
 
   // Swap month and date
   if (date.valueOf() > NOW) {
-    return moment.utc(str, 'YYYY-DD-MMTHH:mm:ss').toJSON();
+    return moment.utc(str, 'YYYY-DD-MMTHH:mm:ss').toDate();
   }
-  return date.toJSON();
+  return date.toDate();
 }
 

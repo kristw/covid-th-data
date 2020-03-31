@@ -29,6 +29,11 @@ const records = response.result.records.map(record => {
 
 fs.writeFileSync(
   path.join(__dirname, '../processed/covidThPatients.json'),
+  JSON.stringify({ records }, null, 2),
+  'utf-8'
+);
+fs.writeFileSync(
+  path.join(__dirname, '../processed/covidThPatients.min.json'),
   JSON.stringify({ records }),
   'utf-8'
 );
