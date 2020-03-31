@@ -7,8 +7,7 @@ const response = JSON.parse(fs.readFileSync(path.join(__dirname, '../raw/covidTh
 
 const records = response.result.records.map(record => {
   return {
-    // field นี้ดันมี _ นำหน้าอยู่อันเดียว
-    id: record._id,
+    id: record.no,
     name: record.name,
     // ใช้ empty string ไม่ชัดเจน
     age: record.age === '' ? null : +record.age,
@@ -20,11 +19,11 @@ const records = response.result.records.map(record => {
     // อันนี้ชื่อ field Capitalize ซะเฉยๆ
     risk: record.Risk,
     // อันนี้ชื่อ field Capitalize ซะเฉยๆ
-    district: record.District,
+    district: record.District === '' ? undefined : record.District,
     // ชื่อ field อันนี้เว้นวรรค ไม่ดีเลย ใช้ลำบาก
     // วันที่ที่ส่งมาเป็น string ต้อง parse ก่อน
     // จริงๆชอบส่งเป็น timestamp (millisecond from epoch) ยัดใส่ new Date() ได้เลย
-    notificationDate: parseDate(record['Notification date']),
+    notificationDate: record['Notification date'] === null ? undefined : parseDate(record['Notification date']),
     // ชื่อ field อันนี้เว้นวรรค แถม Date ใช้ D ตัวใหญ่ ข้างบนใช้ d ตัวเล็ก
     announceDate: parseDate(record['Announce Date']),
   };
