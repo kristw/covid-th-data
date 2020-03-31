@@ -1,7 +1,7 @@
 const PROVINCE_MAP = {
   กรุงเทพ: 'กทม',
   นทบุรี: 'นนทบุรี',
-  นนทุบุรี: 'นนทุบุรี',
+  นนทุบุรี: 'นนทบุรี',
   ภูก็ต: 'ภูเก็ต',
   สมุุทรปราการ: 'สมุทรปราการ',
   ชลบุุรี: 'ชลบุรี',
@@ -14,4 +14,3 @@ module.exports = function cleanProvince(input) {
 
   return PROVINCE_MAP[province] || province;
 }
-
