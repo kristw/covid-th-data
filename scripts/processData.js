@@ -21,8 +21,6 @@ const records = response.result.records.map(record => {
     // อันนี้ชื่อ field Capitalize ซะเฉยๆ
     district: record.District === '' ? undefined : record.District,
     // ชื่อ field อันนี้เว้นวรรค ไม่ดีเลย ใช้ลำบาก
-    // วันที่ที่ส่งมาเป็น string ต้อง parse ก่อน
-    // จริงๆชอบส่งเป็น timestamp (millisecond from epoch) ยัดใส่ new Date() ได้เลย
     notificationDate: record['Notification date'] === null ? undefined : parseDate(record['Notification date']),
     // ชื่อ field อันนี้เว้นวรรค แถม Date ใช้ D ตัวใหญ่ ข้างบนใช้ d ตัวเล็ก
     announceDate: parseDate(record['Announce Date']),
