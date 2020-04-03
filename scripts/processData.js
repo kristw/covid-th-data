@@ -27,6 +27,18 @@ const records = response.result.records.map(record => {
   };
 });
 
+const NOW = new Date().getTime();
+const lastDate = records[records.length - 1].announceDate.getTime();
+
+records.forEach(record => {
+  const { announceDate } = record;
+  const timestamp = record.announceDate.valueOf();
+  if (timestamp > NOW || timestamp > lastDate) {
+    record.announceDate = new Date(Date.UTC(announceDate.getFullYear(), announceDate.getDate(), announceDate.getMonth()));
+    console.log('clean: swap date and month of', announceDate.toJSON());
+  }
+});
+
 fs.writeFileSync(
   path.join(__dirname, '../processed/covidThPatients.json'),
   JSON.stringify({ records }, null, 2),
