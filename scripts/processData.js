@@ -3,6 +3,7 @@ const path = require('path');
 const cleanProvince = require('./cleanProvince');
 const parseDate = require('./parseDate');
 const saveJson = require('./saveJson');
+const createTimeSeriesByProvince = require('./createTimeSeriesByProvince');
 
 const response = JSON.parse(fs.readFileSync(path.join(__dirname, '../raw/covidThPatients.json'), 'utf8'));
 
@@ -41,4 +42,4 @@ records.forEach(record => {
 });
 
 saveJson('covidThPatients', { records });
-
+saveJson('timeSeriesByProvince', createTimeSeriesByProvince(records));
