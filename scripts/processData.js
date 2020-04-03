@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const cleanProvince = require('./cleanProvince');
 const parseDate = require('./parseDate');
+const saveJson = require('./saveJson');
 
 const response = JSON.parse(fs.readFileSync(path.join(__dirname, '../raw/covidThPatients.json'), 'utf8'));
 
@@ -39,13 +40,5 @@ records.forEach(record => {
   }
 });
 
-fs.writeFileSync(
-  path.join(__dirname, '../processed/covidThPatients.json'),
-  JSON.stringify({ records }, null, 2),
-  'utf-8'
-);
-fs.writeFileSync(
-  path.join(__dirname, '../processed/covidThPatients.min.json'),
-  JSON.stringify({ records }),
-  'utf-8'
-);
+saveJson('covidThPatients', { records });
+
