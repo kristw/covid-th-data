@@ -32,10 +32,10 @@ const lastDate = records[records.length - 1].announceDate.getTime();
 
 records.forEach(record => {
   const { announceDate } = record;
-  const timestamp = record.announceDate.valueOf();
-  if (timestamp > NOW || timestamp > lastDate) {
-    record.announceDate = new Date(Date.UTC(announceDate.getFullYear(), announceDate.getDate(), announceDate.getMonth()));
-    console.log('clean: swap date and month of', announceDate.toJSON());
+  const timestamp = announceDate.valueOf();
+  if (announceDate.getUTCDate() <= 12 && (timestamp > NOW || timestamp > lastDate)) {
+    record.announceDate = new Date(Date.UTC(announceDate.getUTCFullYear(), announceDate.getUTCDate() - 1, announceDate.getUTCMonth() + 1));
+    console.log('clean: swap date and month of', announceDate.toJSON(), '=>', record.announceDate.toJSON());
   }
 });
 
