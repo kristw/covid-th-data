@@ -8,7 +8,7 @@ module.exports = function saveJson(filename, data) {
     'utf-8'
   );
   fs.writeFileSync(
-    path.join(__dirname, `../processed/${filename}.min.json`),
+    path.join(__dirname, `../processed/${filename}-min.json`),
     JSON.stringify(data),
     'utf-8'
   );

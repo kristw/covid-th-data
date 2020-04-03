@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Thailand COVID dataset",
   "private": true,
-  "default": "processed/covidThPatients.min.json",
+  "default": "processed/covidThPatients-min.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

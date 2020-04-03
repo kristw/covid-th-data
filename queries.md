@@ -5,6 +5,9 @@ LIMIT 100000
 
 https://opend.data.go.th/get-ckan/datastore_search?resource_id=93f74e67-6f76-4b25-8f5d-b485083100b6&limit=100000
 
+
+The one below cannot be trusted due to incorrect province and announce date in the raw data.
+
 ```sql
 SELECT Province, Announce Date, count(no)
 GROUP BY Province, Announce Date
