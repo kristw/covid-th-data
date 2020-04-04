@@ -24,7 +24,7 @@ const remove = n => 1;
 const update = (stringA, stringB) => stringA !== stringB ? 1 : 0;
 
 module.exports = function cleanProvince(input) {
-  const province = (input || '').trim();
+  const province = (input ? input : '').trim();
   if (province === '') {
     return 'ไม่ทราบ';
   }
