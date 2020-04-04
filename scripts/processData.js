@@ -17,7 +17,7 @@ const records = response.result.records.map(record => {
     nation: record.nation,
     // อันนี้อยู่ดีๆก็นึกจะใช้ snake_case naming
     occupation: record.occ_new,
-    province: cleanProvince(record.Province),
+    province: cleanProvince(record['Province of isolation']),
     // อันนี้ชื่อ field Capitalize ซะเฉยๆ
     risk: record.Risk,
     // อันนี้ชื่อ field Capitalize ซะเฉยๆ
