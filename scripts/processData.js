@@ -32,14 +32,16 @@ const records = response.result.records.map(record => {
 const NOW = new Date().getTime();
 const lastDate = records[records.length - 1].announceDate.getTime();
 
-records.forEach(record => {
-  const { announceDate } = record;
-  const timestamp = announceDate.valueOf();
-  if (announceDate.getUTCDate() <= 12 && (timestamp > NOW || timestamp > lastDate)) {
-    record.announceDate = new Date(Date.UTC(announceDate.getUTCFullYear(), announceDate.getUTCDate() - 1, announceDate.getUTCMonth() + 1));
-    console.log('clean: swap date and month of', announceDate.toJSON(), '=>', record.announceDate.toJSON());
-  }
-});
+records
+  .filter(({ announceDate }) => announceDate)
+  .forEach(record => {
+    const { announceDate } = record;
+    const timestamp = announceDate.valueOf();
+    if (announceDate.getUTCDate() <= 12 && (timestamp > NOW || timestamp > lastDate)) {
+      record.announceDate = new Date(Date.UTC(announceDate.getUTCFullYear(), announceDate.getUTCDate() - 1, announceDate.getUTCMonth() + 1));
+      console.log('clean: swap date and month of', announceDate.toJSON(), '=>', record.announceDate.toJSON());
+    }
+  });
 
 saveJson('covidThPatients', { records });
 saveJson('timeSeriesByProvince', createTimeSeriesByProvince(records));
