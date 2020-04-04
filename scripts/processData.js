@@ -30,10 +30,16 @@ const records = response.result.records.map(record => {
 });
 
 const NOW = new Date().getTime();
+
 const lastDate = records[records.length - 1].announceDate.getTime();
 
 records
-  .filter(({ announceDate }) => announceDate)
+  .map((record, i) => {
+    if (!record.announceDate) {
+      record.announceDate = records[i-1].announceDate;
+    }
+    return record;
+  })
   .forEach(record => {
     const { announceDate } = record;
     const timestamp = announceDate.valueOf();
