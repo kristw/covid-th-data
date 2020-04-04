@@ -22,7 +22,7 @@ d3.json('https://raw.githubusercontent.com/kristw/covid-th-data/master/processed
 or can also use [jsDelivr](https://www.jsdelivr.com/) 's CDN
 
 ```ts
-d3.json('https://cdn.jsdelivr.net/gh/kristw/covid-th-data@master/processed/covidThPatients-min.json');
+d3.json('https://cdn.jsdelivr.net/gh/kristw/covid-th-data/processed/covidThPatients-min.json');
 ```
 
 ### Raw query result
