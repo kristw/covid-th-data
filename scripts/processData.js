@@ -29,17 +29,17 @@ const records = response.result.records.map(record => {
   };
 });
 
-const NOW = new Date().getTime();
-
-const lastDate = records[records.length - 1].announceDate.getTime();
-
 records
-  .map((record, i) => {
+  .forEach((record, i) => {
     if (!record.announceDate) {
       record.announceDate = records[i-1].announceDate;
     }
-    return record;
   })
+
+const NOW = new Date().getTime();
+const lastDate = records[records.length - 1].announceDate.getTime();
+
+records
   .forEach(record => {
     const { announceDate } = record;
     const timestamp = announceDate.valueOf();
@@ -48,6 +48,8 @@ records
       console.log('clean: swap date and month of', announceDate.toJSON(), '=>', record.announceDate.toJSON());
     }
   });
+
+
 
 saveJson('covidThPatients', { records });
 saveJson('timeSeriesByProvince', createTimeSeriesByProvince(records));
