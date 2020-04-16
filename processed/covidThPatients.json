@@ -1843,8 +1843,8 @@
       "announceDate": "2020-03-19T00:00:00.000Z"
     },
     {
-      "id": 2341,
-      "age": 69,
+      "id": 2343,
+      "age": 46,
       "sex": "",
       "province": "ยะลา",
       "notificationDate": "2020-04-07T00:00:00.000Z",
@@ -4699,8 +4699,8 @@
       "announceDate": "2020-03-23T00:00:00.000Z"
     },
     {
-      "id": 2342,
-      "age": 55,
+      "id": 2344,
+      "age": 62,
       "sex": "",
       "province": "ยะลา",
       "notificationDate": "2020-04-07T00:00:00.000Z",
@@ -5315,10 +5315,10 @@
       "announceDate": "2020-03-23T00:00:00.000Z"
     },
     {
-      "id": 2343,
-      "age": 46,
+      "id": 2336,
+      "age": 58,
       "sex": "",
-      "province": "ยะลา",
+      "province": "สงขลา",
       "notificationDate": "2020-04-07T00:00:00.000Z",
       "announceDate": "2020-04-08T00:00:00.000Z"
     },
@@ -5713,206 +5713,6 @@
       "province": "กทม",
       "notificationDate": "2020-03-23T00:00:00.000Z",
       "announceDate": "2020-03-24T00:00:00.000Z"
-    },
-    {
-      "id": 1001,
-      "age": 58,
-      "sex": "ชาย",
-      "province": "ยะลา",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1002,
-      "age": 7,
-      "sex": "หญิง",
-      "province": "พัทลุง",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1003,
-      "age": 21,
-      "sex": "หญิง",
-      "province": "ตรัง",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1004,
-      "age": null,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1005,
-      "age": 55,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1006,
-      "age": null,
-      "sex": "",
-      "province": "กทม",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1007,
-      "age": 56,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-26T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1008,
-      "age": 20,
-      "sex": "หญิง",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1009,
-      "age": 24,
-      "sex": "หญิง",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1010,
-      "age": 51,
-      "sex": "หญิง",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1011,
-      "age": 23,
-      "sex": "ชาย",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1012,
-      "age": 28,
-      "sex": "หญิง",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1013,
-      "age": 47,
-      "sex": "ชาย",
-      "province": "ไม่ทราบ",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1014,
-      "age": 30,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1015,
-      "age": 35,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1016,
-      "age": 40,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1017,
-      "age": 55,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1018,
-      "age": null,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-03-28T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1019,
-      "age": 57,
-      "sex": "ชาย",
-      "province": "ยะลา",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1020,
-      "age": 32,
-      "sex": "หญิง",
-      "province": "ยะลา",
-      "notificationDate": "2020-03-25T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1021,
-      "age": 42,
-      "sex": "ชาย",
-      "province": "ปัตตานี",
-      "notificationDate": "2020-03-26T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1022,
-      "age": 35,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-26T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1023,
-      "age": 58,
-      "sex": "ชาย",
-      "province": "พัทลุง",
-      "notificationDate": "2020-03-28T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1024,
-      "age": 30,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-29T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
-      "id": 1025,
-      "age": 15,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-26T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
     },
     {
       "id": 751,
@@ -7123,14 +6923,6 @@
       "announceDate": "2020-03-25T00:00:00.000Z"
     },
     {
-      "id": 1026,
-      "age": 38,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-26T00:00:00.000Z",
-      "announceDate": "2020-03-26T00:00:00.000Z"
-    },
-    {
       "id": 902,
       "age": 34,
       "sex": "ชาย",
@@ -7931,12 +7723,220 @@
       "announceDate": "2020-03-29T00:00:00.000Z"
     },
     {
-      "id": 2344,
-      "age": 62,
-      "sex": "",
+      "id": 1001,
+      "age": 58,
+      "sex": "ชาย",
       "province": "ยะลา",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1002,
+      "age": 7,
+      "sex": "หญิง",
+      "province": "พัทลุง",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1003,
+      "age": 21,
+      "sex": "หญิง",
+      "province": "ตรัง",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1004,
+      "age": null,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1005,
+      "age": 55,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1006,
+      "age": null,
+      "sex": "",
+      "province": "กทม",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1007,
+      "age": 56,
+      "sex": "ชาย",
+      "province": "กทม",
+      "notificationDate": "2020-03-26T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1008,
+      "age": 20,
+      "sex": "หญิง",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1009,
+      "age": 24,
+      "sex": "หญิง",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1010,
+      "age": 51,
+      "sex": "หญิง",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1011,
+      "age": 23,
+      "sex": "ชาย",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1012,
+      "age": 28,
+      "sex": "หญิง",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1013,
+      "age": 47,
+      "sex": "ชาย",
+      "province": "ไม่ทราบ",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1014,
+      "age": 30,
+      "sex": "ชาย",
+      "province": "กทม",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1015,
+      "age": 35,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1016,
+      "age": 40,
+      "sex": "ชาย",
+      "province": "กทม",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1017,
+      "age": 55,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1018,
+      "age": null,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-28T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1019,
+      "age": 57,
+      "sex": "ชาย",
+      "province": "ยะลา",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1020,
+      "age": 32,
+      "sex": "หญิง",
+      "province": "ยะลา",
+      "notificationDate": "2020-03-25T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1021,
+      "age": 42,
+      "sex": "ชาย",
+      "province": "ปัตตานี",
+      "notificationDate": "2020-03-26T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1022,
+      "age": 35,
+      "sex": "ชาย",
+      "province": "กทม",
+      "notificationDate": "2020-03-26T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1023,
+      "age": 58,
+      "sex": "ชาย",
+      "province": "พัทลุง",
+      "notificationDate": "2020-03-28T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1024,
+      "age": 30,
+      "sex": "ชาย",
+      "province": "กทม",
+      "notificationDate": "2020-03-29T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1025,
+      "age": 15,
+      "sex": "ชาย",
+      "province": "กทม",
+      "notificationDate": "2020-03-26T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
+    },
+    {
+      "id": 1125,
+      "age": null,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-26T00:00:00.000Z",
+      "announceDate": "2020-03-27T00:00:00.000Z"
+    },
+    {
+      "id": 1026,
+      "age": 38,
+      "sex": "ชาย",
+      "province": "กทม",
+      "notificationDate": "2020-03-26T00:00:00.000Z",
+      "announceDate": "2020-03-26T00:00:00.000Z"
     },
     {
       "id": 1027,
@@ -8515,6 +8515,14 @@
       "announceDate": "2020-03-27T00:00:00.000Z"
     },
     {
+      "id": 2337,
+      "age": 77,
+      "sex": "",
+      "province": "สงขลา",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
+    },
+    {
       "id": 1099,
       "age": 49,
       "sex": "หญิง",
@@ -8717,14 +8725,6 @@
     {
       "id": 1124,
       "age": 55,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-03-26T00:00:00.000Z",
-      "announceDate": "2020-03-27T00:00:00.000Z"
-    },
-    {
-      "id": 1125,
-      "age": null,
       "sex": "หญิง",
       "province": "กทม",
       "notificationDate": "2020-03-26T00:00:00.000Z",
@@ -9742,14 +9742,6 @@
       "id": 1502,
       "age": 38,
       "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-29T00:00:00.000Z",
-      "announceDate": "2020-03-30T00:00:00.000Z"
-    },
-    {
-      "id": 1503,
-      "age": 20,
-      "sex": "หญิง",
       "province": "กทม",
       "notificationDate": "2020-03-29T00:00:00.000Z",
       "announceDate": "2020-03-30T00:00:00.000Z"
@@ -11635,11 +11627,11 @@
       "announceDate": "2020-03-30T00:00:00.000Z"
     },
     {
-      "id": 1504,
-      "age": 56,
+      "id": 1503,
+      "age": 20,
       "sex": "หญิง",
       "province": "กทม",
-      "notificationDate": "2020-03-28T00:00:00.000Z",
+      "notificationDate": "2020-03-29T00:00:00.000Z",
       "announceDate": "2020-03-30T00:00:00.000Z"
     },
     {
@@ -11755,92 +11747,100 @@
       "announceDate": "2020-03-30T00:00:00.000Z"
     },
     {
-      "id": 2251,
-      "age": 23,
+      "id": 2001,
+      "age": 31,
       "sex": "หญิง",
       "province": "กทม",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
-      "id": 2252,
-      "age": 34,
+      "id": 2002,
+      "age": 58,
       "sex": "หญิง",
       "province": "กทม",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
-      "id": 2253,
+      "id": 2003,
+      "age": 56,
+      "sex": "หญิง",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2004,
+      "age": 37,
+      "sex": "หญิง",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2005,
+      "age": 44,
+      "sex": "ชาย",
+      "province": "ปทุมธานี",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2006,
+      "age": 31,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2007,
+      "age": 48,
+      "sex": "ชาย",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2008,
+      "age": 56,
+      "sex": "ชาย",
+      "province": "นนทบุรี",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2009,
       "age": 33,
       "sex": "หญิง",
-      "province": "ลพบุรี",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
-    },
-    {
-      "id": 2254,
-      "age": 34,
-      "sex": "หญิง",
       "province": "กทม",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
-      "id": 2255,
-      "age": 65,
-      "sex": "หญิง",
-      "province": "ชุมพร",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
-    },
-    {
-      "id": 2256,
-      "age": 35,
+      "id": 2010,
+      "age": 39,
       "sex": "ชาย",
       "province": "กทม",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
-      "id": 2257,
-      "age": 43,
+      "id": 2011,
+      "age": 26,
+      "sex": "หญิง",
+      "province": "ภูเก็ต",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 1504,
+      "age": 56,
       "sex": "หญิง",
       "province": "กทม",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
-    },
-    {
-      "id": 2258,
-      "age": 47,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-04-06T00:00:00.000Z",
-      "announceDate": "2020-04-07T00:00:00.000Z"
-    },
-    {
-      "id": 2259,
-      "age": 1,
-      "sex": "หญิง",
-      "province": "สมุทรปราการ",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
-      "id": 2260,
-      "age": 50,
-      "sex": "หญิง",
-      "province": "สมุทรปราการ",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
-      "id": 2261,
-      "age": 41,
-      "sex": "หญิง",
-      "province": "นครราชสีมา",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
+      "notificationDate": "2020-03-28T00:00:00.000Z",
+      "announceDate": "2020-03-30T00:00:00.000Z"
     },
     {
       "id": 1505,
@@ -12043,14 +12043,6 @@
       "announceDate": "2020-03-31T00:00:00.000Z"
     },
     {
-      "id": 1554,
-      "age": 19,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-03-30T00:00:00.000Z",
-      "announceDate": "2020-03-31T00:00:00.000Z"
-    },
-    {
       "id": 1530,
       "age": 29,
       "sex": "หญิง",
@@ -12237,6 +12229,14 @@
     {
       "id": 1553,
       "age": 31,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-30T00:00:00.000Z",
+      "announceDate": "2020-03-31T00:00:00.000Z"
+    },
+    {
+      "id": 1554,
+      "age": 19,
       "sex": "หญิง",
       "province": "กทม",
       "notificationDate": "2020-03-30T00:00:00.000Z",
@@ -13435,6 +13435,14 @@
       "announceDate": "2020-04-01T00:00:00.000Z"
     },
     {
+      "id": 1747,
+      "age": 32,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-03-31T00:00:00.000Z",
+      "announceDate": "2020-04-01T00:00:00.000Z"
+    },
+    {
       "id": 1704,
       "age": 48,
       "sex": "ชาย",
@@ -13774,14 +13782,6 @@
       "id": 1746,
       "age": 42,
       "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-03-31T00:00:00.000Z",
-      "announceDate": "2020-04-01T00:00:00.000Z"
-    },
-    {
-      "id": 1747,
-      "age": 32,
-      "sex": "หญิง",
       "province": "กทม",
       "notificationDate": "2020-03-31T00:00:00.000Z",
       "announceDate": "2020-04-01T00:00:00.000Z"
@@ -14539,6 +14539,14 @@
       "announceDate": "2020-04-02T00:00:00.000Z"
     },
     {
+      "id": 2338,
+      "age": 37,
+      "sex": "ชาย",
+      "province": "ยะลา",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
+    },
+    {
       "id": 1842,
       "age": 74,
       "sex": "ชาย",
@@ -14712,6 +14720,14 @@
       "province": "อำนาจเจริญ",
       "notificationDate": "2020-04-01T00:00:00.000Z",
       "announceDate": "2020-04-02T00:00:00.000Z"
+    },
+    {
+      "id": 2339,
+      "age": 74,
+      "sex": "",
+      "province": "ยะลา",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
     },
     {
       "id": 1864,
@@ -14906,20 +14922,20 @@
       "announceDate": "2020-04-03T00:00:00.000Z"
     },
     {
+      "id": 2012,
+      "age": 24,
+      "sex": "ชาย",
+      "province": "ตาก",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
       "id": 1888,
       "age": 42,
       "sex": "หญิง",
       "province": "บุรีรัมย์",
       "notificationDate": "2020-04-02T00:00:00.000Z",
       "announceDate": "2020-04-03T00:00:00.000Z"
-    },
-    {
-      "id": 2056,
-      "age": 58,
-      "sex": "หญิง",
-      "province": "ลำปาง",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
       "id": 1889,
@@ -15690,14 +15706,6 @@
       "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
-      "id": 2057,
-      "age": 38,
-      "sex": "หญิง",
-      "province": "เชียงใหม่",
-      "notificationDate": "2020-04-02T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
       "id": 1985,
       "age": 81,
       "sex": "หญิง",
@@ -15826,100 +15834,68 @@
       "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
-      "id": 2001,
-      "age": 31,
+      "id": 2251,
+      "age": 23,
       "sex": "หญิง",
       "province": "กทม",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
     },
     {
-      "id": 2002,
-      "age": 58,
+      "id": 2252,
+      "age": 34,
       "sex": "หญิง",
       "province": "กทม",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
     },
     {
-      "id": 2003,
-      "age": 56,
-      "sex": "หญิง",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
-      "id": 2004,
-      "age": 37,
-      "sex": "หญิง",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
-      "id": 2005,
-      "age": 44,
-      "sex": "ชาย",
-      "province": "ปทุมธานี",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
-      "id": 2006,
-      "age": 31,
-      "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
-      "id": 2007,
-      "age": 48,
-      "sex": "ชาย",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
-      "id": 2008,
-      "age": 56,
-      "sex": "ชาย",
-      "province": "นนทบุรี",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
-      "id": 2009,
+      "id": 2253,
       "age": 33,
       "sex": "หญิง",
-      "province": "กทม",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
+      "province": "ลพบุรี",
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
     },
     {
-      "id": 2010,
-      "age": 39,
-      "sex": "ชาย",
-      "province": "กทม",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
-      "id": 2011,
-      "age": 26,
+      "id": 2254,
+      "age": 34,
       "sex": "หญิง",
-      "province": "ภูเก็ต",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
+      "province": "กทม",
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
     },
     {
-      "id": 2012,
-      "age": 24,
+      "id": 2255,
+      "age": 65,
+      "sex": "หญิง",
+      "province": "ชุมพร",
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
+    },
+    {
+      "id": 2256,
+      "age": 35,
       "sex": "ชาย",
-      "province": "ตาก",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
+      "province": "กทม",
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
+    },
+    {
+      "id": 2257,
+      "age": 43,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
+    },
+    {
+      "id": 2258,
+      "age": 47,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-04-06T00:00:00.000Z",
+      "announceDate": "2020-04-07T00:00:00.000Z"
     },
     {
       "id": 2013,
@@ -16074,14 +16050,6 @@
       "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
-      "id": 2058,
-      "age": 64,
-      "sex": "ชาย",
-      "province": "ไม่ทราบ",
-      "notificationDate": "2020-04-03T00:00:00.000Z",
-      "announceDate": "2020-04-04T00:00:00.000Z"
-    },
-    {
       "id": 2032,
       "age": 51,
       "sex": "ชาย",
@@ -16112,6 +16080,14 @@
       "province": "สงขลา",
       "notificationDate": "2020-04-03T00:00:00.000Z",
       "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2340,
+      "age": 27,
+      "sex": "",
+      "province": "ยะลา",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
     },
     {
       "id": 2036,
@@ -16274,12 +16250,44 @@
       "announceDate": "2020-04-04T00:00:00.000Z"
     },
     {
+      "id": 2056,
+      "age": 58,
+      "sex": "หญิง",
+      "province": "ลำปาง",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2057,
+      "age": 38,
+      "sex": "หญิง",
+      "province": "เชียงใหม่",
+      "notificationDate": "2020-04-02T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2058,
+      "age": 64,
+      "sex": "ชาย",
+      "province": "ไม่ทราบ",
+      "notificationDate": "2020-04-03T00:00:00.000Z",
+      "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
       "id": 2059,
       "age": 56,
       "sex": "หญิง",
       "province": "ภูเก็ต",
       "notificationDate": "2020-04-03T00:00:00.000Z",
       "announceDate": "2020-04-04T00:00:00.000Z"
+    },
+    {
+      "id": 2110,
+      "age": 63,
+      "sex": "หญิง",
+      "province": "ไม่ทราบ",
+      "notificationDate": "2020-04-04T00:00:00.000Z",
+      "announceDate": "2020-04-05T00:00:00.000Z"
     },
     {
       "id": 2060,
@@ -16666,14 +16674,6 @@
       "announceDate": "2020-04-05T00:00:00.000Z"
     },
     {
-      "id": 2339,
-      "age": 74,
-      "sex": "",
-      "province": "ยะลา",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
       "id": 2108,
       "age": 20,
       "sex": "ชาย",
@@ -16684,14 +16684,6 @@
     {
       "id": 2109,
       "age": 35,
-      "sex": "หญิง",
-      "province": "ไม่ทราบ",
-      "notificationDate": "2020-04-04T00:00:00.000Z",
-      "announceDate": "2020-04-05T00:00:00.000Z"
-    },
-    {
-      "id": 2110,
-      "age": 63,
       "sex": "หญิง",
       "province": "ไม่ทราบ",
       "notificationDate": "2020-04-04T00:00:00.000Z",
@@ -16880,6 +16872,14 @@
       "province": "นนทบุรี",
       "notificationDate": "2020-04-04T00:00:00.000Z",
       "announceDate": "2020-04-05T00:00:00.000Z"
+    },
+    {
+      "id": 2341,
+      "age": 69,
+      "sex": "",
+      "province": "ยะลา",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
     },
     {
       "id": 2134,
@@ -17256,6 +17256,14 @@
       "province": "สุราษฎร์ธานี",
       "notificationDate": "2020-04-05T00:00:00.000Z",
       "announceDate": "2020-04-06T00:00:00.000Z"
+    },
+    {
+      "id": 2342,
+      "age": 55,
+      "sex": "",
+      "province": "ยะลา",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
     },
     {
       "id": 2181,
@@ -17818,6 +17826,38 @@
       "announceDate": "2020-04-07T00:00:00.000Z"
     },
     {
+      "id": 2501,
+      "age": 34,
+      "sex": "หญิง",
+      "province": "กทม",
+      "notificationDate": "2020-04-10T00:00:00.000Z",
+      "announceDate": "2020-04-11T00:00:00.000Z"
+    },
+    {
+      "id": 2259,
+      "age": 1,
+      "sex": "หญิง",
+      "province": "สมุทรปราการ",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
+    },
+    {
+      "id": 2260,
+      "age": 50,
+      "sex": "หญิง",
+      "province": "สมุทรปราการ",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
+    },
+    {
+      "id": 2261,
+      "age": 41,
+      "sex": "หญิง",
+      "province": "นครราชสีมา",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
+    },
+    {
       "id": 2262,
       "age": 36,
       "sex": "ชาย",
@@ -17982,6 +18022,14 @@
       "age": 5,
       "sex": "หญิง",
       "province": "กทม",
+      "notificationDate": "2020-04-07T00:00:00.000Z",
+      "announceDate": "2020-04-08T00:00:00.000Z"
+    },
+    {
+      "id": 2307,
+      "age": 10,
+      "sex": "หญิง",
+      "province": "พัทลุง",
       "notificationDate": "2020-04-07T00:00:00.000Z",
       "announceDate": "2020-04-08T00:00:00.000Z"
     },
@@ -18178,14 +18226,6 @@
       "announceDate": "2020-04-08T00:00:00.000Z"
     },
     {
-      "id": 2307,
-      "age": 10,
-      "sex": "หญิง",
-      "province": "พัทลุง",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
       "id": 2308,
       "age": 58,
       "sex": "หญิง",
@@ -18199,14 +18239,6 @@
       "sex": "ชาย",
       "province": "กทม",
       "notificationDate": "2020-04-04T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
-      "id": 2340,
-      "age": 27,
-      "sex": "",
-      "province": "ยะลา",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
       "announceDate": "2020-04-08T00:00:00.000Z"
     },
     {
@@ -18414,30 +18446,6 @@
       "age": 27,
       "sex": "",
       "province": "สงขลา",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
-      "id": 2336,
-      "age": 58,
-      "sex": "",
-      "province": "สงขลา",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
-      "id": 2337,
-      "age": 77,
-      "sex": "",
-      "province": "สงขลา",
-      "notificationDate": "2020-04-07T00:00:00.000Z",
-      "announceDate": "2020-04-08T00:00:00.000Z"
-    },
-    {
-      "id": 2338,
-      "age": 37,
-      "sex": "ชาย",
-      "province": "ยะลา",
       "notificationDate": "2020-04-07T00:00:00.000Z",
       "announceDate": "2020-04-08T00:00:00.000Z"
     },
@@ -19686,14 +19694,6 @@
       "age": 44,
       "sex": "ชาย",
       "province": "ปทุมธานี",
-      "notificationDate": "2020-04-10T00:00:00.000Z",
-      "announceDate": "2020-04-11T00:00:00.000Z"
-    },
-    {
-      "id": 2501,
-      "age": 34,
-      "sex": "หญิง",
-      "province": "กทม",
       "notificationDate": "2020-04-10T00:00:00.000Z",
       "announceDate": "2020-04-11T00:00:00.000Z"
     },
