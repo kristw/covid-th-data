@@ -422,146 +422,164 @@
   {
     "province": "all",
     "time": "2020-03-22T00:00:00.000Z",
-    "newCases": 187,
-    "totalCases": 598
+    "newCases": 188,
+    "totalCases": 599
   },
   {
     "province": "all",
     "time": "2020-03-23T00:00:00.000Z",
     "newCases": 122,
-    "totalCases": 720
+    "totalCases": 721
   },
   {
     "province": "all",
     "time": "2020-03-24T00:00:00.000Z",
     "newCases": 106,
-    "totalCases": 826
+    "totalCases": 827
   },
   {
     "province": "all",
     "time": "2020-03-25T00:00:00.000Z",
-    "newCases": 106,
-    "totalCases": 932
+    "newCases": 107,
+    "totalCases": 934
   },
   {
     "province": "all",
     "time": "2020-03-26T00:00:00.000Z",
     "newCases": 111,
-    "totalCases": 1043
+    "totalCases": 1045
   },
   {
     "province": "all",
     "time": "2020-03-27T00:00:00.000Z",
     "newCases": 91,
-    "totalCases": 1134
+    "totalCases": 1136
   },
   {
     "province": "all",
     "time": "2020-03-28T00:00:00.000Z",
     "newCases": 108,
-    "totalCases": 1242
+    "totalCases": 1244
   },
   {
     "province": "all",
     "time": "2020-03-29T00:00:00.000Z",
     "newCases": 141,
-    "totalCases": 1383
+    "totalCases": 1385
   },
   {
     "province": "all",
     "time": "2020-03-30T00:00:00.000Z",
-    "newCases": 137,
-    "totalCases": 1520
+    "newCases": 138,
+    "totalCases": 1523
   },
   {
     "province": "all",
     "time": "2020-03-31T00:00:00.000Z",
     "newCases": 128,
-    "totalCases": 1648
+    "totalCases": 1651
   },
   {
     "province": "all",
     "time": "2020-04-01T00:00:00.000Z",
-    "newCases": 121,
-    "totalCases": 1769
+    "newCases": 120,
+    "totalCases": 1771
   },
   {
     "province": "all",
     "time": "2020-04-02T00:00:00.000Z",
     "newCases": 104,
-    "totalCases": 1873
+    "totalCases": 1875
   },
   {
     "province": "all",
     "time": "2020-04-03T00:00:00.000Z",
     "newCases": 103,
-    "totalCases": 1976
+    "totalCases": 1978
   },
   {
     "province": "all",
     "time": "2020-04-04T00:00:00.000Z",
     "newCases": 89,
-    "totalCases": 2065
+    "totalCases": 2067
   },
   {
     "province": "all",
     "time": "2020-04-05T00:00:00.000Z",
     "newCases": 102,
-    "totalCases": 2167
+    "totalCases": 2169
   },
   {
     "province": "all",
     "time": "2020-04-06T00:00:00.000Z",
     "newCases": 51,
-    "totalCases": 2218
+    "totalCases": 2220
   },
   {
     "province": "all",
     "time": "2020-04-07T00:00:00.000Z",
     "newCases": 38,
-    "totalCases": 2256
+    "totalCases": 2258
   },
   {
     "province": "all",
     "time": "2020-04-08T00:00:00.000Z",
     "newCases": 111,
-    "totalCases": 2367
+    "totalCases": 2369
   },
   {
     "province": "all",
     "time": "2020-04-09T00:00:00.000Z",
     "newCases": 54,
-    "totalCases": 2421
+    "totalCases": 2423
   },
   {
     "province": "all",
     "time": "2020-04-10T00:00:00.000Z",
     "newCases": 50,
-    "totalCases": 2471
+    "totalCases": 2473
   },
   {
     "province": "all",
     "time": "2020-04-11T00:00:00.000Z",
     "newCases": 45,
-    "totalCases": 2516
+    "totalCases": 2518
   },
   {
     "province": "all",
     "time": "2020-04-12T00:00:00.000Z",
     "newCases": 33,
-    "totalCases": 2549
+    "totalCases": 2551
   },
   {
     "province": "all",
     "time": "2020-04-13T00:00:00.000Z",
     "newCases": 28,
-    "totalCases": 2577
+    "totalCases": 2579
   },
   {
     "province": "all",
     "time": "2020-04-14T00:00:00.000Z",
-    "newCases": 36,
+    "newCases": 34,
     "totalCases": 2613
+  },
+  {
+    "province": "all",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 30,
+    "totalCases": 2643
+  },
+  {
+    "province": "all",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 29,
+    "totalCases": 2672
+  },
+  {
+    "province": "all",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 28,
+    "totalCases": 2700
   },
   {
     "province": "กทม",
@@ -986,146 +1004,164 @@
   {
     "province": "กทม",
     "time": "2020-03-22T00:00:00.000Z",
-    "newCases": 85,
-    "totalCases": 346
+    "newCases": 87,
+    "totalCases": 348
   },
   {
     "province": "กทม",
     "time": "2020-03-23T00:00:00.000Z",
-    "newCases": 43,
-    "totalCases": 389
+    "newCases": 45,
+    "totalCases": 393
   },
   {
     "province": "กทม",
     "time": "2020-03-24T00:00:00.000Z",
-    "newCases": 37,
-    "totalCases": 426
+    "newCases": 38,
+    "totalCases": 431
   },
   {
     "province": "กทม",
     "time": "2020-03-25T00:00:00.000Z",
-    "newCases": 60,
-    "totalCases": 486
+    "newCases": 59,
+    "totalCases": 490
   },
   {
     "province": "กทม",
     "time": "2020-03-26T00:00:00.000Z",
     "newCases": 52,
-    "totalCases": 538
+    "totalCases": 542
   },
   {
     "province": "กทม",
     "time": "2020-03-27T00:00:00.000Z",
     "newCases": 39,
-    "totalCases": 577
+    "totalCases": 581
   },
   {
     "province": "กทม",
     "time": "2020-03-28T00:00:00.000Z",
     "newCases": 53,
-    "totalCases": 630
+    "totalCases": 634
   },
   {
     "province": "กทม",
     "time": "2020-03-29T00:00:00.000Z",
-    "newCases": 125,
-    "totalCases": 755
+    "newCases": 127,
+    "totalCases": 761
   },
   {
     "province": "กทม",
     "time": "2020-03-30T00:00:00.000Z",
-    "newCases": 87,
-    "totalCases": 842
+    "newCases": 89,
+    "totalCases": 850
   },
   {
     "province": "กทม",
     "time": "2020-03-31T00:00:00.000Z",
-    "newCases": 80,
-    "totalCases": 922
+    "newCases": 81,
+    "totalCases": 931
   },
   {
     "province": "กทม",
     "time": "2020-04-01T00:00:00.000Z",
-    "newCases": 56,
-    "totalCases": 978
+    "newCases": 55,
+    "totalCases": 986
   },
   {
     "province": "กทม",
     "time": "2020-04-02T00:00:00.000Z",
     "newCases": 37,
-    "totalCases": 1015
+    "totalCases": 1023
   },
   {
     "province": "กทม",
     "time": "2020-04-03T00:00:00.000Z",
-    "newCases": 53,
-    "totalCases": 1068
+    "newCases": 54,
+    "totalCases": 1077
   },
   {
     "province": "กทม",
     "time": "2020-04-04T00:00:00.000Z",
     "newCases": 34,
-    "totalCases": 1102
+    "totalCases": 1111
   },
   {
     "province": "กทม",
     "time": "2020-04-05T00:00:00.000Z",
     "newCases": 27,
-    "totalCases": 1129
+    "totalCases": 1138
   },
   {
     "province": "กทม",
     "time": "2020-04-06T00:00:00.000Z",
     "newCases": 30,
-    "totalCases": 1159
+    "totalCases": 1168
   },
   {
     "province": "กทม",
     "time": "2020-04-07T00:00:00.000Z",
     "newCases": 23,
-    "totalCases": 1182
+    "totalCases": 1191
   },
   {
     "province": "กทม",
     "time": "2020-04-08T00:00:00.000Z",
     "newCases": 31,
-    "totalCases": 1213
+    "totalCases": 1222
   },
   {
     "province": "กทม",
     "time": "2020-04-09T00:00:00.000Z",
     "newCases": 19,
-    "totalCases": 1232
+    "totalCases": 1241
   },
   {
     "province": "กทม",
     "time": "2020-04-10T00:00:00.000Z",
-    "newCases": 16,
-    "totalCases": 1248
+    "newCases": 15,
+    "totalCases": 1256
   },
   {
     "province": "กทม",
     "time": "2020-04-11T00:00:00.000Z",
     "newCases": 16,
-    "totalCases": 1264
+    "totalCases": 1272
   },
   {
     "province": "กทม",
     "time": "2020-04-12T00:00:00.000Z",
     "newCases": 10,
-    "totalCases": 1274
+    "totalCases": 1282
   },
   {
     "province": "กทม",
     "time": "2020-04-13T00:00:00.000Z",
     "newCases": 10,
-    "totalCases": 1284
+    "totalCases": 1292
   },
   {
     "province": "กทม",
     "time": "2020-04-14T00:00:00.000Z",
-    "newCases": 9,
-    "totalCases": 1293
+    "newCases": 8,
+    "totalCases": 1300
+  },
+  {
+    "province": "กทม",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 16,
+    "totalCases": 1316
+  },
+  {
+    "province": "กทม",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 19,
+    "totalCases": 1335
+  },
+  {
+    "province": "กทม",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 20,
+    "totalCases": 1355
   },
   {
     "province": "กระบี่",
@@ -1692,6 +1728,24 @@
     "totalCases": 16
   },
   {
+    "province": "กระบี่",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 16
+  },
+  {
+    "province": "กระบี่",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 16
+  },
+  {
+    "province": "กระบี่",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 16
+  },
+  {
     "province": "กาญจนบุรี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -2256,6 +2310,24 @@
     "totalCases": 9
   },
   {
+    "province": "กาญจนบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "กาญจนบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "กาญจนบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
     "province": "กาฬสินธุ์",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -2820,6 +2892,24 @@
     "totalCases": 3
   },
   {
+    "province": "กาฬสินธุ์",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "กาฬสินธุ์",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "ขอนแก่น",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -3384,6 +3474,24 @@
     "totalCases": 4
   },
   {
+    "province": "ขอนแก่น",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 5
+  },
+  {
+    "province": "ขอนแก่น",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "ขอนแก่น",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 6
+  },
+  {
     "province": "จันทบุรี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -3944,6 +4052,24 @@
   {
     "province": "จันทบุรี",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "จันทบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "จันทบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "จันทบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 3
   },
@@ -4508,6 +4634,24 @@
   {
     "province": "ฉะเชิงเทรา",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 21
+  },
+  {
+    "province": "ฉะเชิงเทรา",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 21
+  },
+  {
+    "province": "ฉะเชิงเทรา",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 21
+  },
+  {
+    "province": "ฉะเชิงเทรา",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 21
   },
@@ -5076,6 +5220,24 @@
     "totalCases": 73
   },
   {
+    "province": "ชลบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 73
+  },
+  {
+    "province": "ชลบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 73
+  },
+  {
+    "province": "ชลบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 73
+  },
+  {
     "province": "ชัยภูมิ",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -5636,6 +5798,24 @@
   {
     "province": "ชัยภูมิ",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "ชัยภูมิ",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "ชัยภูมิ",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "ชัยภูมิ",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 3
   },
@@ -6202,6 +6382,24 @@
     "time": "2020-04-14T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 4
+  },
+  {
+    "province": "ชุมพร",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 5
+  },
+  {
+    "province": "ชุมพร",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 3,
+    "totalCases": 8
+  },
+  {
+    "province": "ชุมพร",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 2,
+    "totalCases": 10
   },
   {
     "province": "ตรัง",
@@ -6768,6 +6966,24 @@
     "totalCases": 7
   },
   {
+    "province": "ตรัง",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 7
+  },
+  {
+    "province": "ตรัง",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 7
+  },
+  {
+    "province": "ตรัง",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 7
+  },
+  {
     "province": "ตาก",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -7332,6 +7548,24 @@
     "totalCases": 4
   },
   {
+    "province": "ตาก",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "ตาก",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "ตาก",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
     "province": "นครนายก",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -7892,6 +8126,24 @@
   {
     "province": "นครนายก",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "นครนายก",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "นครนายก",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "นครนายก",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 2
   },
@@ -8460,6 +8712,24 @@
     "totalCases": 17
   },
   {
+    "province": "นครปฐม",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 17
+  },
+  {
+    "province": "นครปฐม",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 17
+  },
+  {
+    "province": "นครปฐม",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 17
+  },
+  {
     "province": "นครพนม",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -9020,6 +9290,24 @@
   {
     "province": "นครพนม",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "นครพนม",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "นครพนม",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "นครพนม",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 2
   },
@@ -9584,6 +9872,24 @@
   {
     "province": "นครราชสีมา",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 16
+  },
+  {
+    "province": "นครราชสีมา",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 16
+  },
+  {
+    "province": "นครราชสีมา",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 16
+  },
+  {
+    "province": "นครราชสีมา",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 16
   },
@@ -10152,6 +10458,24 @@
     "totalCases": 12
   },
   {
+    "province": "นครศรีธรรมราช",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 12
+  },
+  {
+    "province": "นครศรีธรรมราช",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 12
+  },
+  {
+    "province": "นครศรีธรรมราช",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 12
+  },
+  {
     "province": "นครสวรรค์",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -10712,6 +11036,24 @@
   {
     "province": "นครสวรรค์",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "นครสวรรค์",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "นครสวรรค์",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "นครสวรรค์",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 10
   },
@@ -11132,150 +11474,168 @@
   {
     "province": "นนทบุรี",
     "time": "2020-03-21T00:00:00.000Z",
-    "newCases": 5,
-    "totalCases": 13
+    "newCases": 4,
+    "totalCases": 12
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-22T00:00:00.000Z",
     "newCases": 28,
-    "totalCases": 41
+    "totalCases": 40
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-23T00:00:00.000Z",
-    "newCases": 17,
-    "totalCases": 58
+    "newCases": 16,
+    "totalCases": 56
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-24T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 61
+    "totalCases": 59
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-25T00:00:00.000Z",
     "newCases": 4,
-    "totalCases": 65
+    "totalCases": 63
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-26T00:00:00.000Z",
     "newCases": 8,
-    "totalCases": 73
+    "totalCases": 71
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-27T00:00:00.000Z",
     "newCases": 7,
-    "totalCases": 80
+    "totalCases": 78
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-28T00:00:00.000Z",
     "newCases": 7,
-    "totalCases": 87
+    "totalCases": 85
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-29T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 90
+    "totalCases": 88
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-30T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 93
+    "totalCases": 91
   },
   {
     "province": "นนทบุรี",
     "time": "2020-03-31T00:00:00.000Z",
     "newCases": 6,
-    "totalCases": 99
+    "totalCases": 97
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-01T00:00:00.000Z",
     "newCases": 4,
-    "totalCases": 103
+    "totalCases": 101
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-02T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 104
+    "totalCases": 102
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-03T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 107
+    "totalCases": 105
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-04T00:00:00.000Z",
     "newCases": 8,
-    "totalCases": 115
+    "totalCases": 113
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-05T00:00:00.000Z",
     "newCases": 4,
-    "totalCases": 119
+    "totalCases": 117
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-06T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 121
+    "totalCases": 119
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-07T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 123
+    "totalCases": 121
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-08T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 124
+    "totalCases": 122
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-09T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 126
+    "totalCases": 124
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-10T00:00:00.000Z",
     "newCases": 5,
-    "totalCases": 131
+    "totalCases": 129
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-11T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 132
+    "totalCases": 130
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-12T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 133
+    "totalCases": 131
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-13T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 134
+    "totalCases": 132
   },
   {
     "province": "นนทบุรี",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 132
+  },
+  {
+    "province": "นนทบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 133
+  },
+  {
+    "province": "นนทบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 134
+  },
+  {
+    "province": "นนทบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 134
   },
@@ -11844,6 +12204,24 @@
     "totalCases": 24
   },
   {
+    "province": "นราธิวาส",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 25
+  },
+  {
+    "province": "นราธิวาส",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 26
+  },
+  {
+    "province": "นราธิวาส",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 26
+  },
+  {
     "province": "บุรีรัมย์",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -12404,6 +12782,24 @@
   {
     "province": "บุรีรัมย์",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 14
+  },
+  {
+    "province": "บุรีรัมย์",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 14
+  },
+  {
+    "province": "บุรีรัมย์",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 14
+  },
+  {
+    "province": "บุรีรัมย์",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 14
   },
@@ -12972,6 +13368,24 @@
     "totalCases": 31
   },
   {
+    "province": "ปทุมธานี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 31
+  },
+  {
+    "province": "ปทุมธานี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 31
+  },
+  {
+    "province": "ปทุมธานี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 31
+  },
+  {
     "province": "ประจวบคีรีขันธ์",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -13536,6 +13950,24 @@
     "totalCases": 17
   },
   {
+    "province": "ประจวบคีรีขันธ์",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 17
+  },
+  {
+    "province": "ประจวบคีรีขันธ์",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 17
+  },
+  {
+    "province": "ประจวบคีรีขันธ์",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 17
+  },
+  {
     "province": "ปราจีนบุรี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -14096,6 +14528,24 @@
   {
     "province": "ปราจีนบุรี",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 7
+  },
+  {
+    "province": "ปราจีนบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 7
+  },
+  {
+    "province": "ปราจีนบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 7
+  },
+  {
+    "province": "ปราจีนบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 7
   },
@@ -14664,6 +15114,24 @@
     "totalCases": 77
   },
   {
+    "province": "ปัตตานี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 3,
+    "totalCases": 80
+  },
+  {
+    "province": "ปัตตานี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 81
+  },
+  {
+    "province": "ปัตตานี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 82
+  },
+  {
     "province": "พระนครศรีอยุธยา",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -15228,6 +15696,24 @@
     "totalCases": 3
   },
   {
+    "province": "พระนครศรีอยุธยา",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "พระนครศรีอยุธยา",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "พระนครศรีอยุธยา",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "พะเยา",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -15792,6 +16278,24 @@
     "totalCases": 3
   },
   {
+    "province": "พะเยา",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "พะเยา",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "พะเยา",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "พังงา",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -16353,6 +16857,24 @@
     "province": "พังงา",
     "time": "2020-04-14T00:00:00.000Z",
     "newCases": 1,
+    "totalCases": 2
+  },
+  {
+    "province": "พังงา",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "พังงา",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "พังงา",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
     "totalCases": 2
   },
   {
@@ -16920,6 +17442,24 @@
     "totalCases": 13
   },
   {
+    "province": "พัทลุง",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 13
+  },
+  {
+    "province": "พัทลุง",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 13
+  },
+  {
+    "province": "พัทลุง",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 13
+  },
+  {
     "province": "พิษณุโลก",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -17480,6 +18020,24 @@
   {
     "province": "พิษณุโลก",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "พิษณุโลก",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "พิษณุโลก",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "พิษณุโลก",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 5
   },
@@ -18044,8 +18602,26 @@
   {
     "province": "ภูเก็ต",
     "time": "2020-04-14T00:00:00.000Z",
-    "newCases": 4,
-    "totalCases": 170
+    "newCases": 5,
+    "totalCases": 171
+  },
+  {
+    "province": "ภูเก็ต",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 3,
+    "totalCases": 174
+  },
+  {
+    "province": "ภูเก็ต",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 175
+  },
+  {
+    "province": "ภูเก็ต",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 176
   },
   {
     "province": "มหาสารคาม",
@@ -18608,6 +19184,24 @@
   {
     "province": "มหาสารคาม",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "มหาสารคาม",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "มหาสารคาม",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "มหาสารคาม",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 2
   },
@@ -19172,6 +19766,24 @@
   {
     "province": "มุกดาหาร",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "มุกดาหาร",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "มุกดาหาร",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "มุกดาหาร",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 4
   },
@@ -19740,6 +20352,24 @@
     "totalCases": 87
   },
   {
+    "province": "ยะลา",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 3,
+    "totalCases": 90
+  },
+  {
+    "province": "ยะลา",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 3,
+    "totalCases": 93
+  },
+  {
+    "province": "ยะลา",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 3,
+    "totalCases": 96
+  },
+  {
     "province": "ยโสธร",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -20300,6 +20930,24 @@
   {
     "province": "ยโสธร",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "ยโสธร",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "ยโสธร",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "ยโสธร",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 1
   },
@@ -20864,6 +21512,24 @@
   {
     "province": "ระยอง",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 6
+  },
+  {
+    "province": "ระยอง",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 6
+  },
+  {
+    "province": "ระยอง",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 6
+  },
+  {
+    "province": "ระยอง",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 6
   },
@@ -21432,6 +22098,24 @@
     "totalCases": 8
   },
   {
+    "province": "ราชบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 8
+  },
+  {
+    "province": "ราชบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 8
+  },
+  {
+    "province": "ราชบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 8
+  },
+  {
     "province": "ร้อยเอ็ด",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -21996,6 +22680,24 @@
     "totalCases": 3
   },
   {
+    "province": "ร้อยเอ็ด",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "ร้อยเอ็ด",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "ลพบุรี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -22560,6 +23262,24 @@
     "totalCases": 3
   },
   {
+    "province": "ลพบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "ลพบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "ลพบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "ลำปาง",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -23124,6 +23844,24 @@
     "totalCases": 4
   },
   {
+    "province": "ลำปาง",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "ลำปาง",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "ลำปาง",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
     "province": "ลำพูน",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -23688,6 +24426,24 @@
     "totalCases": 4
   },
   {
+    "province": "ลำพูน",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "ลำพูน",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "ลำพูน",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
     "province": "ศรีสะเกษ",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -24104,152 +24860,170 @@
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-21T00:00:00.000Z",
-    "newCases": 1,
-    "totalCases": 1
+    "newCases": 2,
+    "totalCases": 2
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-22T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 1
+    "totalCases": 2
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-23T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 2
+    "totalCases": 3
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-24T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 2
+    "totalCases": 3
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-25T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 3
+    "totalCases": 4
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-26T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 3
+    "totalCases": 4
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-27T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 3
+    "totalCases": 4
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-28T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 5
+    "totalCases": 6
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-29T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 5
+    "totalCases": 6
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-30T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 5
+    "totalCases": 6
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-03-31T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 7
+    "totalCases": 8
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-04-01T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 8
+    "totalCases": 9
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-04-02T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 8
+    "totalCases": 9
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-04-03T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 8
+    "totalCases": 9
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-04-04T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 8
+    "totalCases": 9
   },
   {
     "province": "ศรีสะเกษ",
     "time": "2020-04-05T00:00:00.000Z",
-    "newCases": 1,
-    "totalCases": 9
-  },
-  {
-    "province": "ศรีสะเกษ",
-    "time": "2020-04-06T00:00:00.000Z",
-    "newCases": 0,
-    "totalCases": 9
-  },
-  {
-    "province": "ศรีสะเกษ",
-    "time": "2020-04-07T00:00:00.000Z",
-    "newCases": 0,
-    "totalCases": 9
-  },
-  {
-    "province": "ศรีสะเกษ",
-    "time": "2020-04-08T00:00:00.000Z",
-    "newCases": 0,
-    "totalCases": 9
-  },
-  {
-    "province": "ศรีสะเกษ",
-    "time": "2020-04-09T00:00:00.000Z",
-    "newCases": 0,
-    "totalCases": 9
-  },
-  {
-    "province": "ศรีสะเกษ",
-    "time": "2020-04-10T00:00:00.000Z",
-    "newCases": 0,
-    "totalCases": 9
-  },
-  {
-    "province": "ศรีสะเกษ",
-    "time": "2020-04-11T00:00:00.000Z",
     "newCases": 1,
     "totalCases": 10
   },
   {
     "province": "ศรีสะเกษ",
-    "time": "2020-04-12T00:00:00.000Z",
+    "time": "2020-04-06T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 10
   },
   {
     "province": "ศรีสะเกษ",
-    "time": "2020-04-13T00:00:00.000Z",
+    "time": "2020-04-07T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-08T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-09T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-10T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-11T00:00:00.000Z",
     "newCases": 1,
     "totalCases": 11
   },
   {
     "province": "ศรีสะเกษ",
-    "time": "2020-04-14T00:00:00.000Z",
+    "time": "2020-04-12T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 11
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-13T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 12
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 12
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 12
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 12
+  },
+  {
+    "province": "ศรีสะเกษ",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 12
   },
   {
     "province": "สกลนคร",
@@ -24812,6 +25586,24 @@
   {
     "province": "สกลนคร",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "สกลนคร",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "สกลนคร",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "สกลนคร",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 1
   },
@@ -25380,6 +26172,24 @@
     "totalCases": 49
   },
   {
+    "province": "สงขลา",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 49
+  },
+  {
+    "province": "สงขลา",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 49
+  },
+  {
+    "province": "สงขลา",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 49
+  },
+  {
     "province": "สตูล",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -25944,6 +26754,24 @@
     "totalCases": 19
   },
   {
+    "province": "สตูล",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 19
+  },
+  {
+    "province": "สตูล",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 19
+  },
+  {
+    "province": "สตูล",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 19
+  },
+  {
     "province": "สมุทรปราการ",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -26384,130 +27212,148 @@
   {
     "province": "สมุทรปราการ",
     "time": "2020-03-25T00:00:00.000Z",
-    "newCases": 2,
-    "totalCases": 39
+    "newCases": 3,
+    "totalCases": 40
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-03-26T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 42
+    "totalCases": 43
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-03-27T00:00:00.000Z",
     "newCases": 4,
-    "totalCases": 46
-  },
-  {
-    "province": "สมุทรปราการ",
-    "time": "2020-03-28T00:00:00.000Z",
-    "newCases": 1,
     "totalCases": 47
   },
   {
     "province": "สมุทรปราการ",
-    "time": "2020-03-29T00:00:00.000Z",
+    "time": "2020-03-28T00:00:00.000Z",
     "newCases": 1,
     "totalCases": 48
   },
   {
     "province": "สมุทรปราการ",
+    "time": "2020-03-29T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 49
+  },
+  {
+    "province": "สมุทรปราการ",
     "time": "2020-03-30T00:00:00.000Z",
     "newCases": 7,
-    "totalCases": 55
+    "totalCases": 56
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-03-31T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 56
+    "totalCases": 57
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-01T00:00:00.000Z",
     "newCases": 21,
-    "totalCases": 77
+    "totalCases": 78
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-02T00:00:00.000Z",
     "newCases": 6,
-    "totalCases": 83
+    "totalCases": 84
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-03T00:00:00.000Z",
     "newCases": 5,
-    "totalCases": 88
+    "totalCases": 89
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-04T00:00:00.000Z",
     "newCases": 4,
-    "totalCases": 92
+    "totalCases": 93
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-05T00:00:00.000Z",
     "newCases": 6,
-    "totalCases": 98
+    "totalCases": 99
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-06T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 100
+    "totalCases": 101
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-07T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 100
+    "totalCases": 101
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-08T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 102
+    "totalCases": 103
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-09T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 104
+    "totalCases": 105
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-10T00:00:00.000Z",
-    "newCases": 5,
-    "totalCases": 109
+    "newCases": 6,
+    "totalCases": 111
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-11T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 109
+    "totalCases": 111
   },
   {
     "province": "สมุทรปราการ",
     "time": "2020-04-12T00:00:00.000Z",
-    "newCases": 2,
-    "totalCases": 111
-  },
-  {
-    "province": "สมุทรปราการ",
-    "time": "2020-04-13T00:00:00.000Z",
-    "newCases": 0,
-    "totalCases": 111
-  },
-  {
-    "province": "สมุทรปราการ",
-    "time": "2020-04-14T00:00:00.000Z",
     "newCases": 2,
     "totalCases": 113
   },
   {
+    "province": "สมุทรปราการ",
+    "time": "2020-04-13T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 113
+  },
+  {
+    "province": "สมุทรปราการ",
+    "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 2,
+    "totalCases": 115
+  },
+  {
+    "province": "สมุทรปราการ",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 115
+  },
+  {
+    "province": "สมุทรปราการ",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 115
+  },
+  {
+    "province": "สมุทรปราการ",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 115
+  },
+  {
     "province": "สมุทรสงคราม",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -27068,6 +27914,24 @@
   {
     "province": "สมุทรสงคราม",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "สมุทรสงคราม",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "สมุทรสงคราม",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "สมุทรสงคราม",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 1
   },
@@ -27636,6 +28500,24 @@
     "totalCases": 15
   },
   {
+    "province": "สมุทรสาคร",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 15
+  },
+  {
+    "province": "สมุทรสาคร",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 15
+  },
+  {
+    "province": "สมุทรสาคร",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 15
+  },
+  {
     "province": "สระบุรี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -28196,6 +29078,24 @@
   {
     "province": "สระบุรี",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "สระบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "สระบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "สระบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 5
   },
@@ -28764,6 +29664,24 @@
     "totalCases": 10
   },
   {
+    "province": "สระแก้ว",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "สระแก้ว",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
+    "province": "สระแก้ว",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 10
+  },
+  {
     "province": "สุพรรณบุรี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -29324,6 +30242,24 @@
   {
     "province": "สุพรรณบุรี",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "สุพรรณบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "สุพรรณบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "สุพรรณบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 5
   },
@@ -29892,6 +30828,24 @@
     "totalCases": 18
   },
   {
+    "province": "สุราษฎร์ธานี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 18
+  },
+  {
+    "province": "สุราษฎร์ธานี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 18
+  },
+  {
+    "province": "สุราษฎร์ธานี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 18
+  },
+  {
     "province": "สุรินทร์",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -30456,6 +31410,24 @@
     "totalCases": 9
   },
   {
+    "province": "สุรินทร์",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "สุรินทร์",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "สุรินทร์",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
     "province": "สุโขทัย",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -31020,6 +31992,24 @@
     "totalCases": 3
   },
   {
+    "province": "สุโขทัย",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "สุโขทัย",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "สุโขทัย",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "หนองคาย",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -31580,6 +32570,24 @@
   {
     "province": "หนองคาย",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "หนองคาย",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "หนองคาย",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "หนองคาย",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 2
   },
@@ -32148,6 +33156,24 @@
     "totalCases": 4
   },
   {
+    "province": "หนองบัวลำภู",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
+    "province": "หนองบัวลำภู",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 4
+  },
+  {
     "province": "อำนาจเจริญ",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -32708,6 +33734,24 @@
   {
     "province": "อำนาจเจริญ",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "อำนาจเจริญ",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 2
   },
@@ -33276,6 +34320,24 @@
     "totalCases": 9
   },
   {
+    "province": "อุดรธานี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "อุดรธานี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "อุดรธานี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
     "province": "อุตรดิตถ์",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -33840,6 +34902,24 @@
     "totalCases": 3
   },
   {
+    "province": "อุตรดิตถ์",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "อุตรดิตถ์",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "อุตรดิตถ์",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "อุทัยธานี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -34400,6 +35480,24 @@
   {
     "province": "อุทัยธานี",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "อุทัยธานี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "อุทัยธานี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "อุทัยธานี",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 1
   },
@@ -34968,6 +36066,24 @@
     "totalCases": 15
   },
   {
+    "province": "อุบลราชธานี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 15
+  },
+  {
+    "province": "อุบลราชธานี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 15
+  },
+  {
+    "province": "อุบลราชธานี",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 15
+  },
+  {
     "province": "เชียงราย",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -35528,6 +36644,24 @@
   {
     "province": "เชียงราย",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "เชียงราย",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "เชียงราย",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 9
+  },
+  {
+    "province": "เชียงราย",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 9
   },
@@ -36096,6 +37230,24 @@
     "totalCases": 40
   },
   {
+    "province": "เชียงใหม่",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 40
+  },
+  {
+    "province": "เชียงใหม่",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 40
+  },
+  {
+    "province": "เชียงใหม่",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 40
+  },
+  {
     "province": "เพชรบุรี",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -36656,6 +37808,24 @@
   {
     "province": "เพชรบุรี",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "เพชรบุรี",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "เพชรบุรี",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 2
+  },
+  {
+    "province": "เพชรบุรี",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 2
   },
@@ -37224,6 +38394,24 @@
     "totalCases": 3
   },
   {
+    "province": "เพชรบูรณ์",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "เพชรบูรณ์",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
+    "province": "เพชรบูรณ์",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 3
+  },
+  {
     "province": "เลย",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -37788,6 +38976,24 @@
     "totalCases": 5
   },
   {
+    "province": "เลย",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "เลย",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "เลย",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
     "province": "แพร่",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -38348,6 +39554,24 @@
   {
     "province": "แพร่",
     "time": "2020-04-14T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "แพร่",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "แพร่",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 1
+  },
+  {
+    "province": "แพร่",
+    "time": "2020-04-17T00:00:00.000Z",
     "newCases": 0,
     "totalCases": 1
   },
@@ -38916,6 +40140,24 @@
     "totalCases": 5
   },
   {
+    "province": "แม่ฮ่องสอน",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "แม่ฮ่องสอน",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
+    "province": "แม่ฮ่องสอน",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 5
+  },
+  {
     "province": "ไม่ทราบ",
     "time": "2020-01-12T00:00:00.000Z",
     "newCases": 0,
@@ -39338,145 +40580,163 @@
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-22T00:00:00.000Z",
-    "newCases": 18,
-    "totalCases": 18
+    "newCases": 17,
+    "totalCases": 17
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-23T00:00:00.000Z",
-    "newCases": 7,
-    "totalCases": 25
+    "newCases": 6,
+    "totalCases": 23
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-24T00:00:00.000Z",
-    "newCases": 16,
-    "totalCases": 41
+    "newCases": 15,
+    "totalCases": 38
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-25T00:00:00.000Z",
-    "newCases": 3,
-    "totalCases": 44
+    "newCases": 4,
+    "totalCases": 42
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-26T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 47
+    "totalCases": 45
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-27T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 50
+    "totalCases": 48
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-28T00:00:00.000Z",
     "newCases": 3,
-    "totalCases": 53
+    "totalCases": 51
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-03-29T00:00:00.000Z",
-    "newCases": 2,
+    "newCases": 0,
+    "totalCases": 51
+  },
+  {
+    "province": "ไม่ทราบ",
+    "time": "2020-03-30T00:00:00.000Z",
+    "newCases": 4,
     "totalCases": 55
   },
   {
     "province": "ไม่ทราบ",
-    "time": "2020-03-30T00:00:00.000Z",
-    "newCases": 5,
-    "totalCases": 60
-  },
-  {
-    "province": "ไม่ทราบ",
     "time": "2020-03-31T00:00:00.000Z",
-    "newCases": 8,
-    "totalCases": 68
+    "newCases": 7,
+    "totalCases": 62
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-01T00:00:00.000Z",
     "newCases": 4,
-    "totalCases": 72
+    "totalCases": 66
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-02T00:00:00.000Z",
     "newCases": 7,
-    "totalCases": 79
+    "totalCases": 73
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-03T00:00:00.000Z",
-    "newCases": 8,
-    "totalCases": 87
+    "newCases": 7,
+    "totalCases": 80
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-04T00:00:00.000Z",
     "newCases": 7,
-    "totalCases": 94
+    "totalCases": 87
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-05T00:00:00.000Z",
     "newCases": 14,
-    "totalCases": 108
+    "totalCases": 101
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-06T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 108
+    "totalCases": 101
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-07T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 108
+    "totalCases": 101
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-08T00:00:00.000Z",
     "newCases": 18,
-    "totalCases": 126
+    "totalCases": 119
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-09T00:00:00.000Z",
     "newCases": 2,
-    "totalCases": 128
+    "totalCases": 121
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-10T00:00:00.000Z",
     "newCases": 1,
-    "totalCases": 129
+    "totalCases": 122
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-11T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 129
+    "totalCases": 122
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-12T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 129
+    "totalCases": 122
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-13T00:00:00.000Z",
     "newCases": 0,
-    "totalCases": 129
+    "totalCases": 122
   },
   {
     "province": "ไม่ทราบ",
     "time": "2020-04-14T00:00:00.000Z",
-    "newCases": 3,
-    "totalCases": 132
+    "newCases": 1,
+    "totalCases": 123
+  },
+  {
+    "province": "ไม่ทราบ",
+    "time": "2020-04-15T00:00:00.000Z",
+    "newCases": 1,
+    "totalCases": 124
+  },
+  {
+    "province": "ไม่ทราบ",
+    "time": "2020-04-16T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 124
+  },
+  {
+    "province": "ไม่ทราบ",
+    "time": "2020-04-17T00:00:00.000Z",
+    "newCases": 0,
+    "totalCases": 124
   }
 ]
