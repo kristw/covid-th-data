@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/kristw/covid-th-data#readme",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "lodash": "^4.17.21",
     "d3": "^5.15.1",
     "edit-distance": "^1.0.2",
