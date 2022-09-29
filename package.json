@@ -20,7 +20,7 @@
   "dependencies": {
     "moment": "^2.29.4",
     "lodash": "^4.17.21",
-    "d3": "^5.15.1",
+    "d3": "^7.6.1",
     "edit-distance": "^1.0.2",
     "gridmap-layout-thailand": "^0.0.3"
   }
